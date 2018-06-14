@@ -1,0 +1,13 @@
+proyecto Bogclearcity
+grupo inpahu 096
+
+INTEGRANTES
+MILTON SILVA
+FREDY MEDINA
+
+DESCRIPCION DEL PROYECTO
+
+El proyecto se enfoca en la tematica de las basuras a nivel bogota buscando
+soluciones practicas mediante una aplicación movil que culturice al cuidadano
+
+Funciones basicas
